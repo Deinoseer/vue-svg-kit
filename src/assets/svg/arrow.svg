@@ -1,0 +1,13 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="10"
+  height="5"
+  viewBox="0 0 10 6"
+  fill="none"
+  class="arrow"
+>
+  <path
+    fill="#75787b"
+    d="M0 .333l5 5 5-5H0z"
+  />
+</svg>

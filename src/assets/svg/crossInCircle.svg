@@ -1,0 +1,4 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8" cy="8" r="7.5" stroke="#EB5757" class="svg-colorized-el__stroke"/>
+    <path d="M5.1716 5.1716l5.6568 5.6568m-5.6568 0l5.6568-5.6568" stroke="#EB5757" class="svg-colorized-el__stroke" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <rect class="svg-colorized-el__stroke" width="17" height="15" x="3.5" y="4.5" stroke="#43B6B8" rx="1.5"/>
+    <path class="svg-colorized-el__stroke" stroke="#43B6B8" stroke-linecap="round" stroke-linejoin="round" d="M6.5 9.25l1.6 1.25L10.5 8"/>
+    <path class="svg-colorized-el" fill="#43B6B8" fill-rule="evenodd" d="M6.975 12.732a.5.5 0 00-.707.707l1.06 1.061-1.06 1.06a.5.5 0 10.707.708l1.06-1.06 1.061 1.06a.5.5 0 00.707-.707L8.743 14.5l1.06-1.06a.5.5 0 10-.707-.708l-1.06 1.06-1.061-1.06z" clip-rule="evenodd"/>
+    <path class="svg-colorized-el__stroke" stroke="#43B6B8" stroke-linecap="round" stroke-linejoin="round" d="M12.5 9.5H18M12.5 14.5H18"/>
+</svg>

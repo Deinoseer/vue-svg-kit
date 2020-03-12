@@ -1,0 +1,9 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="8" cy="8" r="7.5" stroke="#BB6BD9" class="svg-colorized-el__stroke"/>
+    <mask id="a" fill="#fff">
+        <path d="M7.5 4.5a.5.5 0 0 1 1 0v7a.5.5 0 0 1-1 0v-7z"/>
+    </mask>
+    <path d="M7.5 4.5a.5.5 0 0 1 1 0v7a.5.5 0 0 1-1 0v-7z" fill="#56CCF2"/>
+    <path d="M7.5 4.5v7h2v-7h-2zm1 7v-7h-2v7h2zM8 11a.5.5 0 0 1 .5.5h-2c0 .8284.6716 1.5 1.5 1.5v-2zm-.5.5A.5.5 0 0 1 8 11v2c.8284 0 1.5-.6716 1.5-1.5h-2zM8 5a.5.5 0 0 1-.5-.5h2C9.5 3.6716 8.8284 3 8 3v2zm0-2c-.8284 0-1.5.6716-1.5 1.5h2A.5.5 0 0 1 8 5V3z" fill="#BB6BD9" class="svg-colorized-el__stroke" mask="url(#a)"/>
+    <rect x="4.25" y="8.25" width=".5" height="7.5" rx=".25" transform="rotate(-90 4.25 8.25)" class="svg-colorized-el__stroke" fill="#56CCF2" stroke="#BB6BD9" stroke-width=".5"/>
+</svg>

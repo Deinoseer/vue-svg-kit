@@ -1,4 +1,8 @@
-# vue-test
+# vue-svg-kit
+
+![Demo Image](demo.jpg)
+
+
 
 ## Project setup
 ```

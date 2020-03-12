@@ -1,0 +1,6 @@
+@mixin font($size, $color: $black-color1, $weight: normal) {
+  color: $color;
+  font-family: 'Helvetica', Helvetica, Arial, sans-serif;
+  font-size: $size;
+  font-weight: $weight;
+}

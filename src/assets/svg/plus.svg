@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10" fill="none" class="icon-plus">
+  <path
+    class="svg-colorized-el"
+    fill="#fff"
+    fill-rule="evenodd"
+    d="M4.286 0v4.286H0v1.428h4.286V10h1.428V5.714H10V4.286H5.714V0H4.286z"
+    clip-rule="evenodd"
+  />
+</svg>

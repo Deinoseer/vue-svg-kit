@@ -1,0 +1,9 @@
+<svg width="18" height="22" fill="none" viewBox="0 0 18 22" xmlns="http://www.w3.org/2000/svg">
+    <path
+            class="svg-colorized-el__stroke"
+            d="M1 3.5L9 3l8 .5M7 6v12m4-12v12M1 6l1.505 14.106a1 1 0 0 0 .994.894h11.002a1 1 0 0 0 .994-.894L17 6M7 3V1h4v2"
+            stroke="#43B6B8"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+    />
+</svg>

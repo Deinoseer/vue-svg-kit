@@ -1,0 +1,13 @@
+<svg
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+  width="100%" height="100%" viewBox="0 0 48 48" preserveAspectRatio="xMidYMid meet"
+>
+  <path
+    fill="#fff"
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M24 0C10.752 0 0 10.752 0 24s10.752 24 24 24 24-10.752 24-24S37.248 0 24 0zm0 7.2a7.19 7.19 0 0 1 7.2 7.2 7.19 7.19 0 0 1-7.2 7.2 7.19 7.19 0 0 1-7.2-7.2A7.19 7.19 0 0 1 24 7.2zM9.6 33.553C12.696 38.209 18 41.28 24 41.28s11.304-3.072 14.4-7.728C40.5 30 32 26 24 26S7.5 30 9.6 33.553z"
+    class="svg-colorized-el"
+  />
+</svg>

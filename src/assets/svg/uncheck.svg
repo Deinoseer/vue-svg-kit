@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="10" viewBox="0 0 14 10" id="uncheck">
+  <use fill="#fff" transform="translate(1 1)" xlink:href="#uncheck_path"/>
+  <defs>
+    <path id="uncheck_path" d="M4.54 7l-.684.73.685.641.684-.642L4.54 7zM-.683 3.468l4.54 4.261 1.369-1.458L.685 2.01l-1.37 1.458zM5.225 7.73l7.46-7-1.37-1.458-7.459 7 1.369 1.458z"/>
+  </defs>
+</svg>
