@@ -2,6 +2,7 @@
 
 ![Demo Image](demo.jpg)
 
+View all svg icons from assets/svg directory
 
 
 ## Project setup
