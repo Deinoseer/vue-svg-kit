@@ -1,6 +1,6 @@
 # vue-svg-kit
 
-Demo url: https://dmtk.space/vue-svg-kit/](https://dmtk.space/vue-svg-kit/)
+Demo url: [https://dmtk.space/vue-svg-kit/](https://dmtk.space/vue-svg-kit/)
 
 ![Demo Image](demo.jpg)
 
